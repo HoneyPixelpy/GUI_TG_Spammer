@@ -1,0 +1,20 @@
+{
+    "name": "Акк за 50р запускаем второй раз",
+    "description": "Имеет отичительные от стандартного параметры",
+    "phone": "380970074652",
+    "session_path": "tdata.zip",
+    "twoFA": "",
+    "app_id": "2496",
+    "app_hash": "8da85b0d5bfe62527e5b244c209159c3",
+    "app_version": "10.6.43 A",
+    "device_model": "Chrome 109",
+    "lang_code": "en",
+    "system_lang_code": "en-US",
+    "sdk": "Windows 10",
+    "account_photo": "photo_2025-03-22_17-00-53.jpg",
+    "account_first_name": "0",
+    "account_last_name": "0",
+    "account_username": "0",
+    "account_description": "0",
+    "proxy": "socks5://92.61.108.225:12324:14aedf9bbd2ed:343bc8b73d"
+}

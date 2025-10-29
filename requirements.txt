@@ -1,0 +1,9 @@
+chardet==5.2.0
+colorama==0.4.6
+loguru==0.7.3
+numpy==2.2.3
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.17.0
+python-dotenv==1.0.1
+win32_setctime==1.2.0

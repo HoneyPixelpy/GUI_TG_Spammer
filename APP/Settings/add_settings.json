@@ -1,0 +1,126 @@
+{
+    "time_dilay": {
+        "prof_uniq": {
+            "min": 5,
+            "max": 15
+        },
+        "pars_chat": {
+            "min": 10,
+            "max": 60
+        },
+        "send_msg_user": {
+            "min": 60,
+            "max": 300
+        },
+        "send_msg_chat": {
+            "min": 60,
+            "max": 300
+        },
+        "invite": {
+            "min": 60,
+            "max": 300
+        },
+        "read_history": {
+            "min": 10,
+            "max": 60
+        },
+        "error_delay_entity": {
+            "min": 10,
+            "max": 60
+        },
+        "auto_responder_static": {
+            "min": 0,
+            "max": 0
+        },
+        "auto_responder_II": {
+            "min": 20,
+            "max": 20
+        },
+        "after_launch": {
+            "min": 10,
+            "max": 60
+        },
+        "between_steps": {
+            "min": 10,
+            "max": 60
+        },
+        "peerflooderror": {
+            "min": 18000,
+            "max": 22000
+        },
+        "work_acc": {
+            "min": 60,
+            "max": 3600
+        },
+        "sleep_blocks": [
+            {
+                "start": "02:00",
+                "end": "07:00"
+            }
+        ]
+    },
+    "pars_json": {
+        "phone": "phone",
+        "api_id": [
+            "app_id",
+            "api_id"
+        ],
+        "api_hash": [
+            "app_hash",
+            "api_hash"
+        ],
+        "app_version": "app_version",
+        "device": [
+            "device",
+            "Device"
+        ],
+        "lang_pack": [
+            "lang_code",
+            "lang_pack"
+        ],
+        "twoFA": [
+            "twoFa",
+            "twoFA",
+            "twofa"
+        ]
+    },
+    "pars_users": {
+        "deleted": false,
+        "bot": false,
+        "support": false,
+        "scam": false,
+        "fake": false,
+        "username": 1,
+        "photo": 1
+    },
+    "const": {
+        "system_version": "4.14.9-vxCUSTOM"
+    },
+    "settings_mailing_chats": {
+        "repeats": 1000,
+        "wait_msg_chats": true
+    },
+    "settings_II": {
+        "prompt": "Сейчас тебе будут писать мои покупатели насчёт моего телеграмм бота, который предназначен для продажи проксей ipv6 и ipv4, консультируй людей по этим вопросам, ещё продаём лэндинги, копируем сайты, создаём сайты на конструкторах, общайся так будто ты реальный человек и зовут тебя на самом деле Олег, ты для всех настоящий человек, отвечай всегда на языке на котором был сделан тебе запрос, ты специалист в этой сфере не зависимо от того на сколько ограничены твои данные"
+    },
+    "settings_dilay_mailing_to_target": {
+        "user": "24:00",
+        "chat": "01:00"
+    },
+    "black_list_buttons": [
+        "бот",
+        "бота",
+        "bot",
+        "робот",
+        "robot",
+        "поехали",
+        "go",
+        "human",
+        "человек"
+    ],
+    "url_list_buttons": [
+        "подписаться",
+        "подпишись",
+        "на канал"
+    ]
+}
