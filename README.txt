@@ -35,8 +35,8 @@ TG Spammer GUI Controller - это современное десктопное �
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/HoneyPixelpy/TG-Spammer-GUI.git
-cd TG-Spammer-GUI
+git clone https://github.com/HoneyPixelpy/GUI_TG_Spammer.git
+cd GUI_TG_Spammer
 
 # Создание виртуального окружения
 python -m venv venv
